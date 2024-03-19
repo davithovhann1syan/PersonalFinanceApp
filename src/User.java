@@ -9,7 +9,6 @@ public class User {
     }
 
     public void logout() {
-        System.out.println("a");
-        System.out.println("R");
+
     }
 }
